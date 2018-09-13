@@ -9,3 +9,5 @@ sadasdasd test
 =======
 skip tugas kuy
 >>>>>>> c3117079f4e58cc6f548dafea4d90a6577c2948e
+
+edit tugas psi
